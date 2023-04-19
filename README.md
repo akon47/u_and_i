@@ -1,16 +1,8 @@
 # u_and_i
 
-A new Flutter project.
+플러터로 만든 만난 지 며칠 앱
 
-## Getting Started
+## 🖼️ Screenshot
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/49547202/233099822-0c6dee9b-0b1a-4f34-b669-33b4a8811553.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
